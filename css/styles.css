@@ -1,0 +1,27 @@
+#panda-showing1 {
+  display: none;
+}
+
+#panda-showing2 {
+  display: none;
+}
+
+
+
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable1:hover {
+  text-decoration: underline;
+}
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2:hover {
+  text-decoration: underline;
+}
